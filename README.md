@@ -8,18 +8,30 @@ PicCraft  is an interactive web application built using Streamlit, a Python libr
 - Real-time preview of the edited image.
 - Download the edited image in PNG format.
 
+## Get Started ##
+Access the Streamlit Image Editor Web Application by visiting:
+```
+https://piccraftgit-pnuk6mxtuyqkmzsgbjdqsn.streamlit.app/
+```
+  
 ## Installation ##
+To set up the project locally, follow these instructions:
+
 1. Clone the repoistory
 ```
 https://github.com/Revanth0501/PicCraft.git
 ```
 2. Navigate to the project directory:
 ```
-cd PicCraft.git
+cd PicCraft
 ```
 3. Install the required Python packages:
 ```
 pip install reuirements.txt
+```
+4. After successful installation, run the following command to start PicCraft:
+```
+streamlit run app.py
 ```
 
 ## Technologies Used ##
