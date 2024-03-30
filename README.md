@@ -1,5 +1,5 @@
 # PicCraft
-PicCraft  is an interactive web application built using Streamlit, a Python library for building interactive web applications. It allows users to upload images, apply various editing options such as resizing, cropping, adjusting brightness, sharpness, contrast, color, rotation, and blurring, and download the edited images.
+PicCraft  is an interactive web application built using Streamlit, a Python library for building interactive web applications. PicCraft allows users to upload images, apply various editing options such as resizing, cropping, adjusting brightness, sharpness, contrast, color, rotation, and blurring, and download the edited images.
 
 ## Features
 - Upload images in JPG, JPEG, or PNG formats.
